@@ -1,4 +1,4 @@
-# 📚 Spring 2026 Course Projects
+# Spring 2026 Course Projects
 
 A collection of coursework projects, programming assignments, and learning exercises completed during the Spring 2026 semester at Kyungbok University.
 
