@@ -128,26 +128,9 @@ http://127.0.0.1:8000/openapi.json
 
 ---
 
-## Example Request
+## Swagger UI
 
-### Create User
-
-```json
-{
-  "name": "Salsabila",
-  "email": "salsabila@example.com"
-}
-```
-
-### Response
-
-```json
-{
-  "id": 1,
-  "name": "Salsabila",
-  "email": "salsabila@example.com"
-}
-```
+<img width="100%" alt="Swagger UI" src="images/src.png">
 
 ---
 
